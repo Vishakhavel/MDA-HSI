@@ -19,4 +19,4 @@ This paper proposes MDA-HSI, a dual model integrated voting network for hyperspe
 
 ## Metrics
 
-<img src="figure/IP-FC.jpg" width="200" height="200"/> <img src="figure/IP-GT.jpg" width="200" height="200"/> <img src="figure/IP-Pr.jpg" width="200" height="200"/> <img src="figure/IP_legend.jpg" width="250" height="150"/>
+<img src="metrics/IP/IP_CM1.jpg" width="200" height="200"/> <img src="metrics/IP/IP_CM2.jpg"" width="200" height="200"/> <img src="metrics/IP/IP_CM_ENSEMBLE.jpg" width="200" height="200"/>
