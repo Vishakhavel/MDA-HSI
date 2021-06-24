@@ -24,7 +24,7 @@ A hierarchical approach of 3D-2D is followed for the classification process. 2D 
 ## Results
 
 ### Indian Pines Dataset
-<img src="metrics/ip_final.JPG" width="300" height="300"/> 
+<img src="metrics/ip_final.JPG" width="450" height="300"/> 
 
 ### Pavias Dataset
 <img src="metrics/pavia_final.JPG" width="300" height="300"/> 
